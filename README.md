@@ -11,7 +11,7 @@ Node.js · TypeScript · PostgreSQL · Prisma · Docker · Groq AI
 
 ## Latest Project
 Smart Advisor — AI Agent that manages investment portfolios
-through natural language using MCP Tool Use## Hi there 👋
+through natural language using MCP Tool Use
 
 <!--
 **devAngham/devAngham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
