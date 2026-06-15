@@ -6,6 +6,7 @@ Node.js · NestJS · TypeScript · System Design · PostgreSQL · Prisma · Dock
 ## Featured Projects
 
 🛒 scalable-commerce-engine — Production-grade e-commerce API
+
    NestJS · PostgreSQL · Redis · Elasticsearch · BullMQ · Docker
    Auth, RBAC, caching, full-text search, async queues
 
