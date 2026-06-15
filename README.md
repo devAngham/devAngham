@@ -21,7 +21,7 @@ Backend Engineer specializing in scalable APIs & AI integration
 
 📫 Reach me: anghamwork@gmail.com · [LinkedIn](https://www.linkedin.com/in/angham-aabed)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=devAngham&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=devAngham&show_icons=true&hide_rank=true&theme=dark)
 <!--
 **devAngham/devAngham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
