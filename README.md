@@ -7,8 +7,8 @@ Node.js · NestJS · TypeScript · System Design · PostgreSQL · Prisma · Dock
 
 🛒 scalable-commerce-engine — Production-grade e-commerce API
 
-   NestJS · PostgreSQL · Redis · Elasticsearch · BullMQ · Docker
-   Auth, RBAC, caching, full-text search, async queues
+    NestJS · PostgreSQL · Redis · Elasticsearch · BullMQ · Docker
+    Auth, RBAC, caching, full-text search, async queues
 
 🤖 smart-advisor — AI financial advisor using MCP Tool Use
 
