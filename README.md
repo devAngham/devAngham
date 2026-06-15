@@ -1,18 +1,25 @@
 # Hi, I'm Angham 👋
 
-Backend Engineer | Node.js · TypeScript · AI Agents
+Backend Engineer specializing in scalable APIs & AI integration
+Node.js · NestJS · TypeScript · System Design · PostgreSQL · Prisma · Docker · Groq AI
 
-🔭 Currently building: Smart Advisor — AI Financial Advisor
+## Featured Projects
+
+🛒 scalable-commerce-engine — Production-grade e-commerce API
+   NestJS · PostgreSQL · Redis · Elasticsearch · BullMQ · Docker
+   Auth, RBAC, caching, full-text search, async queues
+
+🤖 smart-advisor — AI financial advisor using MCP Tool Use
+
 🌍 Based in Gaza 🇵🇸 | Open to Remote
 ⚡ Passionate about: AI Engineering & Backend Systems
 
-## Tech Stack
-Node.js · TypeScript · PostgreSQL · Prisma · Docker · Groq AI
 
-## Latest Project
-Smart Advisor — AI Agent that manages investment portfolios
-through natural language using MCP Tool Use
+📫 Reach me: 
+  email: anghamwork@gmail.com
+  LinkedIn: https://www.linkedin.com/in/angham-aabed
 
+![Stats](https://github-readme-stats.vercel.app/api?username=devAngham&show_icons=true&theme=dark)
 <!--
 **devAngham/devAngham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
