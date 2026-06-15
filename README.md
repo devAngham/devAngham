@@ -1,24 +1,25 @@
 # Hi, I'm Angham 👋
 
 Backend Engineer specializing in scalable APIs & AI integration
-Node.js · NestJS · TypeScript · System Design · PostgreSQL · Prisma · Docker · Groq AI
+
+   **Tech:** 
+  
+     Node.js · NestJS · TypeScript · System Design · PostgreSQL · Prisma · Docker · Groq AI
 
 ## Featured Projects
 
-🛒 scalable-commerce-engine — Production-grade e-commerce API
+🛒 **[Scalable-commerce-engine](https://github.com/devAngham/scalable-commerce-engine)**
+  Production-grade e-commerce API — NestJS · PostgreSQL · Redis · Elasticsearch · BullMQ · Docker
+  Auth, RBAC, caching, full-text search, async queues
 
-    NestJS · PostgreSQL · Redis · Elasticsearch · BullMQ · Docker
-    Auth, RBAC, caching, full-text search, async queues
+💰 **[Finova](https://github.com/devAngham/finova)** — AI Banking API with natural language
+  NestJS · PostgreSQL · Redis · WebSocket · Groq LLaMA 3.3 · MCP Tool Use
+  Manage finances through conversation, real-time updates, JWT auth
 
-🤖 smart-advisor — AI financial advisor using MCP Tool Use
+🤖 **[Smart-advisor](https://github.com/devAngham/smart-advisor)** — AI Financial Advisor
+  AI agent managing investment portfolios via natural language using MCP Tool Use
 
-🌍 Based in Gaza 🇵🇸 | Open to Remote
-⚡ Passionate about: AI Engineering & Backend Systems
-
-
-📫 Reach me: 
-  email: anghamwork@gmail.com
-  LinkedIn: https://www.linkedin.com/in/angham-aabed
+📫 Reach me: anghamwork@gmail.com · [LinkedIn](https://www.linkedin.com/in/angham-aabed)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=devAngham&show_icons=true&theme=dark)
 <!--
