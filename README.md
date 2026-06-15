@@ -6,22 +6,30 @@ Backend Engineer specializing in scalable APIs & AI integration
   
      Node.js · NestJS · TypeScript · System Design · PostgreSQL · Prisma · Docker · Groq AI
 
-## Featured Projects
+## 🚀 Featured Projects
 
-🛒 **[Scalable-commerce-engine](https://github.com/devAngham/scalable-commerce-engine)**
-  Production-grade e-commerce API — NestJS · PostgreSQL · Redis · Elasticsearch · BullMQ · Docker
-  Auth, RBAC, caching, full-text search, async queues
+### 🤖 Smart Advisor — AI Financial Advisor
+> AI Agent managing investment portfolios through natural language using MCP Tool Use & Groq LLaMA
 
-💰 **[Finova](https://github.com/devAngham/finova)** — AI Banking API with natural language
-  NestJS · PostgreSQL · Redis · WebSocket · Groq LLaMA 3.3 · MCP Tool Use
-  Manage finances through conversation, real-time updates, JWT auth
+**Stack:** `Node.js` `TypeScript` `Groq LLaMA` `MCP Tool Use` `PostgreSQL` `JWT`
 
-🤖 **[Smart-advisor](https://github.com/devAngham/smart-advisor)** — AI Financial Advisor
-  AI agent managing investment portfolios via natural language using MCP Tool Use
+### 🏦 Finova — AI Banking Assistant  
+> Full banking API with 7 AI-powered tools via natural language conversation
+
+**Stack:** `NestJS` `TypeScript` `PostgreSQL` `Redis` `WebSocket` `Groq AI`
+
+### 🛒 Scalable Commerce Engine
+> Production-grade e-commerce API with RBAC, async queues & microservices architecture
+
+**Stack:** `NestJS` `TypeScript` `PostgreSQL` `Redis` `BullMQ` `Docker` `GitHub Actions`
 
 📫 Reach me: anghamwork@gmail.com · [LinkedIn](https://www.linkedin.com/in/angham-aabed)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=devAngham&show_icons=true&hide_rank=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devAngham&layout=donut&theme=dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devAngham&theme=react-dark)
+
+
 <!--
 **devAngham/devAngham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
